@@ -1,0 +1,26 @@
+Praha - 1243201 - 500
+Brno - 377508 - 240
+Ostrava - 295653 - 220
+Plzen - 168034 - 140
+Liberec - 102301 - 100
+Olomouc - 99489 - 100
+Usti nad Labem - 93523 - 100
+Ceske Budejovice - 93253 - 60
+Hradec Kralove - 92904 - 100
+Pardubice - 89432 - 80
+Zlin - 75278 - 120
+Havirov - 76109 - 40
+Kladno - 68519 - 40
+Most - 67332 - 80
+Opava - 57931 - 100
+Frydek-Mistek - 57135 - 60
+Karvina - 56848 - 60
+Jihlava - 50510 - 80
+Decin - 50104 - 120
+Teplice - 50024 - 20
+Karlovy Vary - 49864 - 60
+Chomutov - 49185 - 20
+Prerov - 47373 - 60
+Jablonec nad Nisou - 45453 - 40
+Mlada Boleslav - 44272 - 20
+Prostejov - 44234 - 40
